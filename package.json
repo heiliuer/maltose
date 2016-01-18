@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/o2team/maltose#readme",
   "dependencies": {
+    "connect": "^3.4.0",
+    "maltose-ws": "^0.0.4",
     "mime": "^1.3.4"
   }
 }
