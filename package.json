@@ -1,6 +1,6 @@
 {
   "name": "maltose",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "模拟服务器",
   "main": "index.js",
   "scripts": {
